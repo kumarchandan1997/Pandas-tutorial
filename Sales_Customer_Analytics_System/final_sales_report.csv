@@ -1,0 +1,6 @@
+order_id,customer_id,product_id,quantity,order_date,month,year,name,city,age,product_name,category,price,total_price
+1001,1,101,1,2024-01-10,1,2024,Amit,Delhi,25.0,Laptop,Electronics,55000,55000
+1002,2,102,2,2024-01-15,1,2024,Ravi,Mumbai,30.0,Mobile,Electronics,20000,40000
+1003,3,103,1,2024-02-01,2,2024,Neha,Bangalore,,Table,Furniture,8000,8000
+1004,4,104,4,2024-02-05,2,2024,Suresh,Delhi,35.0,Chair,Furniture,3000,12000
+1005,1,102,1,2024-02-10,2,2024,Amit,Delhi,25.0,Mobile,Electronics,20000,20000
